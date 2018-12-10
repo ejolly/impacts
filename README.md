@@ -4,6 +4,7 @@
 [![Package version](https://img.shields.io/pypi/v/impacts.svg)](https://pypi.python.org/pypi/impacts)
 
 --->
+## Overview
 
 A web app to view journal statistics.
 
@@ -17,6 +18,11 @@ To run the app locally:
 3. Navigate to `localhost:8050`
 
 Dash deployment [guide](https://dash.plot.ly/deployment)
+
+
+## Current Design Iteration  
+
+![Alt Text](./current_design.gif)
 
 <!---
 ## Installation
